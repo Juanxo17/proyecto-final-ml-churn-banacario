@@ -99,3 +99,7 @@ The repository contains the inference application and model artifacts. It does n
 ## Notes
 
 This project is for learning and portfolio review. Predictions are model outputs and are not intended as financial or customer-retention decisions.
+
+## Source history
+
+When reviewed, the application files in this repository matched the source-tree snapshot in [Xunni1e/proyecto-final-ml-churn-banacario](https://github.com/Xunni1e/proyecto-final-ml-churn-banacario), which retains the earlier development commits. That history includes a backend refactor by Juan Felipe Plata for Lambda integration, lazy SHAP initialization, and dependency packaging. This repository keeps the same application snapshot under Juanxo17 with this project README.
